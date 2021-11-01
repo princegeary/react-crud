@@ -1,0 +1,24 @@
+.my-table {
+    margin-top: 25px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+.my-table thead {
+    outline: solid 1px #DDEEEE;
+    padding: 10px;
+    text-align: left;
+}
+
+.my-table tr {
+    outline: solid 1px #DDEEEE;
+    text-align: left;
+}
+
+.my-table th {
+     padding: 10px;
+}
+
+.my-table tbody td {
+    padding: 10px;
+}
